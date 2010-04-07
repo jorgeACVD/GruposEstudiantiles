@@ -1,0 +1,14 @@
+{
+    "sLengthMenu": "Mostrar _MENU_ registros por página",
+    "sZeroRecords": "No se encontró información",
+    "sInfo": "Mostrando _START_ a _END_ de _TOTAL_ registros",
+    "sInfoEmtpy": "Mostrando 0 registros",
+    "sInfoFiltered": "(filtrados de _MAX_ registros totales)",
+    "sSearch": "Filtrar:",
+    "oPaginate": {
+        "sFirst": "Primera",
+        "sLast": "Última",
+        "sNext": "Siguiente",
+        "sPrevious": "Anterior"
+    }
+}
