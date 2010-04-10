@@ -8,7 +8,7 @@ class Alumno extends Doctrine_Record
         $this->hasColumn('id_carrera', 'integer', 4);
         $this->hasColumn('matricula', 'string', 100, array('unique' => true));
         $this->hasColumn('nombre', 'string', 100);
-        $this->hasColumn('apellido', 'string', 100);
+        $this->hasColumn('apellidos', 'string', 100);
         $this->hasColumn('semestre', 'integer', 4);
     }
 
